@@ -10,5 +10,5 @@
 
 
 ## Summary
-- Refactoring the original code with simple lines has automated the stock analysis for any number or group of stocks quite easily and fast.
+- Refactoring the original code with simple lines has automated the stock analysis, and can be used for any number or group of stocks quite easily and fast.
 - In our case we have seen how 12 green energy stocks are analysed with a button click in the blink of an eye.
